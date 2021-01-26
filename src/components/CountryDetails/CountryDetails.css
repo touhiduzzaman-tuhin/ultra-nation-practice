@@ -1,0 +1,43 @@
+.country-details-style{
+    background-color: lightsalmon;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin : 20px;
+    padding: 20px;
+    display: flex;
+}
+.left-side-style{
+    width: 250px;
+    border-right: 1px solid steelblue;
+    padding: 10px;
+}
+.middle-side-style{
+    width: 250px;
+    padding: 20px;
+    border-right: 1px solid steelblue;
+}
+.left-side-style img{
+    width: 120px;
+}
+.right-side-style{
+    padding : 20px;
+}
+.addCountryButton{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: goldenrod;
+    color: white;
+    cursor: pointer;
+    border: none;
+    font-size: 18px;
+    margin-top: 30px;
+
+}
+.addCountryButton:focus{
+    outline: none;
+}
+.addCountryButton:hover{
+    background-color: gray;
+    color: white;
+}

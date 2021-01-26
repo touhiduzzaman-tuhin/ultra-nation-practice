@@ -1,0 +1,18 @@
+.country-cart-style{
+    border-left: 2px solid gray;
+    padding-left: 10px;
+    position: absolute;
+    top: 0;
+    /* overflow: scroll; */
+}
+.countryCart{
+    background-color: steelblue;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 17px;
+    font-weight: 400;
+}
+.countryCart img{
+    width: 100px;
+    border-radius: 50%;
+}

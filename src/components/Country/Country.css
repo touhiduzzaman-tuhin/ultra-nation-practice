@@ -1,0 +1,40 @@
+.country-area{
+    font-family: Roboto;
+    text-align: center;
+    display: flex;
+}
+.country-details{
+    width: 70%;
+    margin-left: 100px;
+}
+.countryInputArea{
+    width : 75%;
+    background-color: #222;
+    height: 70px;
+}
+.countryInputArea input{
+    width: 60%;
+    height: 25px;
+    margin-top: 15px;
+    margin-left: 200px;
+    border-radius: 5px;
+    font-size: 20px;
+    /* color : black; */
+}
+.countryInputArea h3{
+    margin-top: 0px;
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.cartLength{
+    font-size: 25px;
+    font-weight: 500;
+    padding : 5px;
+    color: red;
+}
+/* .cartStyle{
+    color: white;
+    margin-left: 20px;
+    font-size: 20px;
+} */
